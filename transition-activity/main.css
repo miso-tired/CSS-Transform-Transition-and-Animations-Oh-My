@@ -24,4 +24,6 @@ button {
 
 button:hover {
   background-color: cornflowerblue;
+  transition: 2s;
+  color: ghostwhite;
 }
